@@ -67,12 +67,12 @@ hexo new <flie>
 
 2 然后编辑makedown文件
 
-3 
+3 生成 html
 ```
 hexo generate
 ```
 
-4
+4 部署到GitHub上
 ```
 hexo deploy
 ```
